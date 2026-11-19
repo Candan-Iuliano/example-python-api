@@ -1,0 +1,8 @@
+import json
+from pprint import pprint
+
+with open("./data/locations.json", "r") as file:
+    data = json.load(file)
+
+print("Number of records:", len(data))
+pprint(data[:2])

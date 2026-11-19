@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Boston",
+        "latitude": 42.3601,
+        "longitude": -71.0589,
+        "description": "Capital of Massachusetts"
+    },
+    {
+        "name": "New York",
+        "latitude": 40.7128,
+        "longitude": -74.0060,
+        "description": "Largest city in New York"
+    },
+    {
+        "name": "Chicago",
+        "latitude": 41.8781,
+        "longitude": -87.6298,
+        "description": "Major city in Illinois"
+    },
+    {
+        "name": "Iraq",
+        "longitude": -87.6298,
+        "description": "Major city in Illinois"
+    },
+    {
+        "name": "Seattly",
+        "latitude": 200.8781,
+        "longitude": -87.6298,
+        "description": "Major city in Illinois"
+    },
+        {
+        "name": "poop",
+        "latitude": 40.7128,
+        "longitude": -74.0060,
+        "description": "Major city in Illinois"
+    }
+
+
+]
